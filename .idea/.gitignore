@@ -104,3 +104,4 @@
  .idea
  target
  target/classes/prone
+ .idea/target/classes/prone

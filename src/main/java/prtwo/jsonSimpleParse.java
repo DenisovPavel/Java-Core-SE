@@ -30,8 +30,3 @@ public class jsonSimpleParse {
         System.out.println(sqlresponse + sb.delete(sb.length()-4,sb.length()-1));
     }
 }
-
-
-
-
-

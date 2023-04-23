@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="april17" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="april17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex001_stringsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex002_fileSystemDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex003_tryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex004_bFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex005_Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec/les2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prtwo/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prtwo/jsonSimpleParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem2/tsk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem2/tsk2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,13 +38,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OZ0R8zTyUrPmq2xH1yew7mfSKw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -42,13 +59,13 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.showsimplenumbers">
-    <configuration name="factnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prone.factnumber" />
+  <component name="RunManager" selected="Application.jsonSimpleParse">
+    <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prtwo.bubblesort" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prone.*" />
+          <option name="PATTERN" value="prtwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prone.kalkulator" />
+    <configuration name="jsonSimpleParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prtwo.jsonSimpleParse" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prone.*" />
+          <option name="PATTERN" value="prtwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +86,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="showsimplenumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prone.showsimplenumbers" />
+    <configuration name="stringsql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prtwo.stringsql" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prone.*" />
+          <option name="PATTERN" value="prtwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tsk1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.tsk1" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tsk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.tsk2" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,9 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.showsimplenumbers" />
-        <item itemvalue="Application.kalkulator" />
-        <item itemvalue="Application.factnumber" />
+        <item itemvalue="Application.jsonSimpleParse" />
+        <item itemvalue="Application.bubblesort" />
+        <item itemvalue="Application.stringsql" />
+        <item itemvalue="Application.tsk2" />
+        <item itemvalue="Application.tsk1" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681755441320</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="april17">
+      <created>1681755466261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681755466261</updated>
+    </task>
+    <task id="LOCAL-00007" summary="april17">
+      <created>1681755591419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681755591419</updated>
+    </task>
+    <task id="LOCAL-00008" summary="april17">
+      <created>1681755666102</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681755666102</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +215,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="april17" />
     <option name="LAST_COMMIT_MESSAGE" value="april17" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

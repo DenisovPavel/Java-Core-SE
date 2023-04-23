@@ -11,7 +11,7 @@ import java.util.logging.SimpleFormatter;
 // результат после каждой итерации запишите в лог-файл.
 public class bubblesort {
 
-    public static void sortArray(int[] inputarray) throws IOException {
+    public static void sortArray(int[] inputarray) {
         int sorted_size = 0;//отсортированный массив;
         int size = inputarray.length;// длина вход.массива
         Logger logger = Logger.getLogger(bubblesort.class.getName());// привезал класс к логеру

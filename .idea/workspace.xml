@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="april17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex001_stringsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex002_fileSystemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex003_tryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex004_bFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec/Ex005_Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lec/les2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prtwo/bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prtwo/jsonSimpleParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem2/tsk1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem2/tsk2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/tsk1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtwo/bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtwo/bubblesort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +47,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.jsonSimpleParse">
+  <component name="RunManager" selected="Application.bubblesort">
     <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prtwo.bubblesort" />
       <module name=" april23" />
@@ -127,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jsonSimpleParse" />
         <item itemvalue="Application.bubblesort" />
+        <item itemvalue="Application.jsonSimpleParse" />
         <item itemvalue="Application.stringsql" />
         <item itemvalue="Application.tsk2" />
         <item itemvalue="Application.tsk1" />
@@ -200,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681755666102</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="april17">
+      <created>1682288653620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682288653620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="april17">
+      <created>1682288747437</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682288747437</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

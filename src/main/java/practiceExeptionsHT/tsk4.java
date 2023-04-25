@@ -7,8 +7,10 @@ import java.util.Random;
 public class tsk4 {
     public static void main(String[] args) {
         createArray();
+        checkZero(createArray());
         showArray(createArray());
         checkArray(createArray());
+
     }
     public static int[][] createArray() {
         int[][] arr = new int[10][10];
@@ -32,6 +34,14 @@ public class tsk4 {
         System.out.println();
     }
 
+    public static  boolean checkZero(int [][] inputArr){
+        if(inputArr == null){
+            System.out.println("Массив пустой");
+            return  true;
+        }
+        System.out.println("Создали массив с рандомными значениями!");
+        return false;
+    }
     public static boolean checkArray(int[][] inputArr) {
         for (int i = 0; i < inputArr.length; i++) {
             if (inputArr.length != inputArr[i].length) {

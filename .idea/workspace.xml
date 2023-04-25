@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="april17">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExthree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682288747437</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="april17">
+      <created>1682434636388</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682434636388</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -29,6 +29,7 @@ public class task8 {
                 ok = false;
             }
         }
+        iscanner.close();
     }
 
 }

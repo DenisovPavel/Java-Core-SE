@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="april17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec2/ex1obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec2/ex2obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec2/ex3Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lec3/tsk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExfive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExsix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiseExfour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prthree/tsk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prthree/tsk2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prthree/tsk3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prthree/tsk3minmax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/tsk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/tsk2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem4/tsk1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -51,9 +69,9 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tsk4">
-    <configuration name="practiceExTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExeptionsSem.practiceExTwo" />
+  <component name="RunManager" selected="Application.task8">
+    <configuration name="practiceExfive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceExeptionsSem.practiceExfive" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tsk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.tsk" />
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.task5" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tsk1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.tsk1" />
+    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.task6" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tsk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.tsk2" />
+    <configuration name="task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.task7" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -104,21 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tsk3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.tsk3" />
-      <module name=" april23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceExeptionsHT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tsk4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.tsk4" />
+    <configuration name="task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceExeptionsHT.task8" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tsk4" />
-        <item itemvalue="Application.tsk3" />
-        <item itemvalue="Application.practiceExeptionsHT.tsk2" />
-        <item itemvalue="Application.tsk1" />
-        <item itemvalue="Application.tsk2" />
+        <item itemvalue="Application.task8" />
+        <item itemvalue="Application.task7" />
+        <item itemvalue="Application.task6" />
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.practiceExfive" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682434636388</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="april17">
+      <created>1682435365614</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682435365614</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

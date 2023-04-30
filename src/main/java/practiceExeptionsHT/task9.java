@@ -36,8 +36,8 @@ public class task9 {
                 System.out.println("Укажите ваш телефон:");
                 String phone = bf.readLine();
                 System.out.println("Укажите ваш пол (м/ж):");
-                String pol = bf.readLine();
-                addAllBio(first_name, second_name, Third_name, birthdate, phone, pol);
+                String sex = bf.readLine();
+                addAllBio(first_name, second_name, Third_name, birthdate, phone, sex);
             } else {
 
                 if (action.equals("del")) {

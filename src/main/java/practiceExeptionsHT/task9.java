@@ -3,17 +3,18 @@ package practiceExeptionsHT;
 import java.io.*;
 
 public class task9 {
-   public static String[] phonebook = new String[5];
+    public static String[] phonebook = new String[5];
+
     public static void main(String[] args) throws IOException {
 
         String action;// действие
         loadBase(); //
         showPhoneBook();
         //вывод на екран описания возможных действий с указанием команд
-        System.out.println( "Пропишите команду указанную внутри  < > для действия: ( <add>  - добавить данные," +
-                                             " <show> - демонстрирует данные, " +
-                                             " <del>  - удалить данные," +
-                                             " <exit> - выход! " );
+        System.out.println("Пропишите команду указанную внутри  < > для действия: ( <add>  - добавить данные," +
+                " <show> - демонстрирует данные, " +
+                " <del>  - удалить данные," +
+                " <exit> - выход! ");
         // считывает текст из символьного потока ввода, буферизируя прочитанные символы.
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         action = bf.readLine();
@@ -25,19 +26,19 @@ public class task9 {
             //добавление записи
             if (action.equals("add")) {
                 System.out.println("Ввод фамилии, имени, отчества.");
-                System.out.println("Укажите вашу  фамилию:");
+                      System.out.println("Укажите вашу  фамилию:");
                 String first_name = bf.readLine();
-                System.out.println("Укажите ваше имя:");
+                      System.out.println("Укажите ваше имя:");
                 String second_name = bf.readLine();
-                System.out.println("Укажите ваше отчество:");
+                      System.out.println("Укажите ваше отчество:");
                 String Third_name = bf.readLine();
-                System.out.println("Укажите вашу дату рождения (день.месяц.год):");
+                      System.out.println("Укажите вашу дату рождения (день.месяц.год):");
                 String birthdate = bf.readLine();
-                System.out.println("Укажите ваш телефон:");
+                      System.out.println("Укажите ваш телефон:");
                 String phone = bf.readLine();
-                System.out.println("Укажите ваш пол (м/ж):");
+                      System.out.println("Укажите ваш пол (м/ж):");
                 String sex = bf.readLine();
-                addAllBio(first_name, second_name, Third_name, birthdate, phone, sex);
+                      addAllBio(first_name, second_name, Third_name, birthdate, phone, sex);
             } else {
 
                 if (action.equals("del")) {
@@ -50,13 +51,14 @@ public class task9 {
                     }
                 }
             }
-            System.out.println( "Пропишите команду указанную внутри  < > для действия: ( <add>  - добавить данные," +
+            System.out.println("Пропишите команду указанную внутри  < > для действия: ( <add>  - добавить данные," +
                     " <show> - демонстрирует данные, " +
                     " <del>  - удалить данные," +
                     " <exit> - выход! ");
             action = bf.readLine(); // след.действие
         }
     }
+
     public static void loadBase() throws IOException {
         File file = new File("biolist.txt");
         if (file.exists()) {
@@ -84,7 +86,7 @@ public class task9 {
     }
 
 
-    private static void addAllBio (String first_name,
+    private static void addAllBio(String first_name,
                                   String second_name,
                                   String third_name,
                                   String birthdate,

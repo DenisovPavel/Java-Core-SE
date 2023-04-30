@@ -6,6 +6,7 @@ public class practiceExone {
         int[] array = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 14, 16};
         int number = 20;
         System.out.println(checkArray(array, number));
+
     }
 
     public static int checkArray(int[] inputarray, int num) {
@@ -18,4 +19,6 @@ public class practiceExone {
           }
         return size;
     }
+
+
 }

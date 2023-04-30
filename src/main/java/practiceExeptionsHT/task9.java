@@ -86,16 +86,16 @@ public class task9 {
 
     private static void addAllBio (String first_name,
                                   String second_name,
-                                  String Third_name,
+                                  String third_name,
                                   String birthdate,
-                                  String phone,
-                                  String pol) {
+                                  String phonenum,
+                                  String sex) {
         phonebook[0] = first_name;
         phonebook[1] = second_name;
-        phonebook[2] = Third_name;
+        phonebook[2] = third_name;
         phonebook[3] = birthdate;
-        phonebook[4] = phone;
-        phonebook[5] = pol;
+        phonebook[4] = phonenum;
+        phonebook[5] = sex;
     }
 }
 

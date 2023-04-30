@@ -77,7 +77,7 @@ public class task9 {
         }
     }
 
-    //Print - выводит на екран все записи
+    //ShowPhoneBook - выводит на екран все записи
     public static void showPhoneBook() {
         System.out.println("Указанные данные: ");
         for (int i = 0; i < phonebook.length; i++) {

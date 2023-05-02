@@ -16,6 +16,7 @@ public class tsk3minmax {
         list.add(7, 15);
         list.add(8, 4);
         list.add(9, 7);
+        list.add(10, 7);
         System.out.println(list);
         showMinMax(list);
     }
@@ -24,7 +25,8 @@ public class tsk3minmax {
         Arrays.sort(arrayofnumbers); // отсортировал встроенным методом sort()
         int min = arrayofnumbers[0]; // 1 элемент
         int max = arrayofnumbers[arrayofnumbers.length-1]; // последний элемент
-        int middlepart = arrayofnumbers.length / 2;
+//        int middlepart = arrayofnumbers.length / 2;
+        int middlepart = arrayofnumbers.length / 2+1;
         int middle = arrayofnumbers[middlepart];
 
         System.out.println("Min element " + min );

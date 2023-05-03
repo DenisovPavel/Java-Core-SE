@@ -27,5 +27,6 @@ public class dequeExample {
                 deque.addFirst(command);           // add first always
             }
         }
+        sc.close();
     }
 }

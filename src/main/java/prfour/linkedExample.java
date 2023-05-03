@@ -47,5 +47,6 @@ public class linkedExample {
                 str.addFirst(command);           // add first always
             }
         }
+        sc.close();
     }
 }

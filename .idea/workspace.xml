@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="all checked">
-      <change afterPath="$PROJECT_DIR$/src/main/java/prfour/stackExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prfour/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prfour/linkedExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="add dequeExample" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.stackExample">
+  <component name="RunManager" selected="Application.dequeExample">
     <configuration name="Ex003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_04.Ex003" />
       <module name=" april23" />
@@ -80,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linkedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prfour.linkedExample" />
+    <configuration name="dequeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prfour.dequeExample" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prfour.stackExample" />
+    <configuration name="prfour.linkedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prfour.linkedExample" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stackExample" />
-        <item itemvalue="Application.linkedExample" />
+        <item itemvalue="Application.dequeExample" />
+        <item itemvalue="Application.prfour.linkedExample" />
         <item itemvalue="Application.practicetsk2" />
         <item itemvalue="Application.Lec4.Ex003" />
         <item itemvalue="Application.Ex003" />
@@ -299,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683127787598</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add dequeExample">
+      <created>1683133670049</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683133670049</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +320,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="april17" />
     <MESSAGE value="all checked" />
-    <option name="LAST_COMMIT_MESSAGE" value="all checked" />
+    <MESSAGE value="add dequeExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dequeExample" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -30,6 +30,8 @@ public class linkedExample {
         LinkedList<String> str = new LinkedList<>();
         System.out.printf("Команды для пользования \n'print' - печать, \n'revert' - удаление, \n'exit' - выход из программы; \n" +
                 "Впишите строку и нажмите 'Enter'");
+        System.out.println();// если убрать эту строчку, то ввод первого элемента повлечет наличие лишней запятой в
+        // в output
         while (true) {
             String command = sc.nextLine();// проверка на выход
             if ("exit".equals(command)) {//  if exit

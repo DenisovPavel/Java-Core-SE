@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="add dequeExample" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="add dequeExample">
+      <change beforePath="$PROJECT_DIR$/src/main/java/prfour/dequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prfour/dequeExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dequeExample">
+  <component name="RunManager" selected="Application.prfour.linkedExample">
     <configuration name="Ex003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_04.Ex003" />
       <module name=" april23" />
@@ -117,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dequeExample" />
         <item itemvalue="Application.prfour.linkedExample" />
+        <item itemvalue="Application.dequeExample" />
         <item itemvalue="Application.practicetsk2" />
         <item itemvalue="Application.Lec4.Ex003" />
         <item itemvalue="Application.Ex003" />
@@ -302,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683133670049</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add dequeExample">
+      <created>1683133931689</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683133931689</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

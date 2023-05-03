@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="april17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lec4/Ex000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lec4/Ex001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lec4/Ex002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lec4/Ex003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lec4/Ex004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lec4/Ex005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prfour/tsk1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem4/practicetsk2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem4/tsk2.java" afterDir="false" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="all checked">
+      <change afterPath="$PROJECT_DIR$/src/main/java/prfour/stackExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prfour/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prfour/linkedExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +53,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tsk1">
-    <configuration name="Ex002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_04.Ex002" />
-      <module name=" april23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.stackExample">
     <configuration name="Ex003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_04.Ex003" />
       <module name=" april23" />
@@ -100,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="linkedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prfour.linkedExample" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prfour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="practicetsk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem4.practicetsk2" />
       <module name=" april23" />
@@ -113,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tsk1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prfour.tsk1" />
+    <configuration name="stackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prfour.stackExample" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tsk1" />
+        <item itemvalue="Application.stackExample" />
+        <item itemvalue="Application.linkedExample" />
         <item itemvalue="Application.practicetsk2" />
         <item itemvalue="Application.Lec4.Ex003" />
         <item itemvalue="Application.Ex003" />
-        <item itemvalue="Application.Ex002" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683045592305</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="all checked">
+      <created>1683127787598</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683127787598</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +316,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="april17" />
-    <option name="LAST_COMMIT_MESSAGE" value="april17" />
+    <MESSAGE value="all checked" />
+    <option name="LAST_COMMIT_MESSAGE" value="all checked" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

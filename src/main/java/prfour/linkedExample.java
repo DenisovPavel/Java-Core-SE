@@ -3,7 +3,7 @@ package prfour;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class tsk1 {
+public class linkedExample {
 
     //    Реализовать консольное приложение, которое:
 //    Принимает от пользователя и “запоминает” строки.

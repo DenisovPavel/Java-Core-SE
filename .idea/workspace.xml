@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="add dequeExample">
-      <change beforePath="$PROJECT_DIR$/src/main/java/prfour/dequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prfour/dequeExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="all checks complited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683133931689</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="all checks complited">
+      <created>1683134324264</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683134324264</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +335,8 @@
     <MESSAGE value="april17" />
     <MESSAGE value="all checked" />
     <MESSAGE value="add dequeExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dequeExample" />
+    <MESSAGE value="all checks complited" />
+    <option name="LAST_COMMIT_MESSAGE" value="all checks complited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

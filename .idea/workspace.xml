@@ -5,63 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="all checks complited">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem5/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem5/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem5/tsk1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem6/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem6/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem6/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem6/alwaysHungryCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex001_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex002_HashMapEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex003_HashMapBoost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex004_TreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex005_LinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex006_HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex001_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex001_Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex002_MathSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex003_TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex004_LinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/WorkingDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lec4/Ex000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lec4/Ex001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lec4/Ex002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lec4/Ex003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lec4/Ex004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lec4/Ex005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec/Ex001_stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex001_stringsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec/Ex002_fileSystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex002_fileSystemDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec/Ex003_tryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex003_tryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec/Ex004_bFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex004_bFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec/Ex005_Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex005_Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec/les2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/les2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec2/ex1obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec2/ex1obj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec2/ex2obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec2/ex2obj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec2/ex3Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec2/ex3Arr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lec3/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec3/tsk1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prfour/dequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prfour/dequeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prfour/linkedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prfour/linkedExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prone/factnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prtone/factnumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prone/kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prtone/kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prone/showsimplenumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prtone/showsimplenumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prthree/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prthree/tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prthree/tsk3minmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk3minmax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prthree/tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prtwo/bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prtwo/bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prtwo/jsonSimpleParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prtwo/jsonSimpleParse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem2/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem2/tsk1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem2/tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem2/tsk2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem3/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem3/tsk1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem3/tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem3/tsk2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem4/practicetsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem4/practicetsk2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem4/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SemApiTsks/sem4/tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/WorkingDirectory.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,35 +59,9 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tsk3minmax">
-    <configuration name="Ex002_MathSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecApi.lec6.Ex002_MathSet" />
-      <module name=" april23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecApi.lec6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.prtHTApi.prsix.Main">
     <configuration name="Ex003_TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecApi.lec6.Ex003_TreeSet" />
-      <module name=" april23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecApi.lec6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex004_LinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecApi.lec6.Ex004_LinkedHashSet" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
@@ -163,6 +86,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prtHTApi.prsix.program" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prtHTApi.prsix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prtHTApi.prsix.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prtHTApi.prsix.Main" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prtHTApi.prsix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tsk3minmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prtHTApi.prthree.tsk3minmax" />
       <module name=" april23" />
@@ -178,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prtHTApi.prsix.Main" />
+        <item itemvalue="Application.program" />
         <item itemvalue="Application.tsk3minmax" />
         <item itemvalue="Application.dequeExample" />
         <item itemvalue="Application.Ex003_TreeSet" />
-        <item itemvalue="Application.Ex004_LinkedHashSet" />
-        <item itemvalue="Application.Ex002_MathSet" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683134539699</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="all checks complited">
+      <created>1685099272637</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685099272637</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

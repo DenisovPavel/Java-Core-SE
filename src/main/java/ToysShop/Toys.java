@@ -17,10 +17,6 @@ public class Toys {
         return toyID;
     }
 
-    public void setToyID(int toyID) {
-        this.toyID = toyID;
-    }
-
     public String getToyName() {
         return toyName;
     }

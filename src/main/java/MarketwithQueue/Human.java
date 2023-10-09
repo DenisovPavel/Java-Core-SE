@@ -3,6 +3,10 @@ package MarketwithQueue;
 public class Human extends Actor implements ActorBehaviour {
 
 
+    public Human(String human ) {
+        super(human);
+    }
+
     @Override
     String getName() {
         return name;
@@ -11,13 +15,13 @@ public class Human extends Actor implements ActorBehaviour {
     @Override
     public void setMakeOrder() {
         isMakeOrder = true;
-        System.out.println("Заказ принят");
+        System.out.println("The Order is accepted");
     }
 
     @Override
     public void setTakeOrder() {
         isTakeOrder = true;
-        System.out.println("Заказ выдан");
+        System.out.println("The order has been issued");
     }
 
     @Override

@@ -5,5 +5,9 @@ public abstract class Actor {
     protected boolean isMakeOrder;
     protected boolean isTakeOrder;
 
+    public Actor(String name) {
+        this.name = name;
+    }
+
     abstract String getName();
 }

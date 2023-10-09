@@ -5,21 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment=" checks complited">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOpsem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOpsem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOpsem/VendingMashine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOpsem/mashineCola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMashine/HotDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMashine/HotDrinksMashine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMashine/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMashine/MashineVending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMashine/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMashine/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codewarsPractice/taskRomans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/funexample/typesex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Gnome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Worgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Shaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Warriors/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Warriors/Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Warriors/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/God.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Shaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Warriors/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Warriors/Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Warriors/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Applications/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Document/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/Md.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/TextFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/Txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Interface/Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex001_stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex001_stringsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex001_stringsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex001_stringsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOpsem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingApparat/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOpsem/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingApparat/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOpsem/VendingMashine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingApparat/VendingMashine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOpsem/mashineCola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingApparat/mashineCola.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +72,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,11 +116,11 @@
   </component>
   <component name="RunManager" selected="Application.VendingMashine.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOpsem.Main" />
+      <option name="MAIN_CLASS_NAME" value="VendingApparat.Main" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOpsem.*" />
+          <option name="PATTERN" value="VendingApparat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +183,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.VendingMashine.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.VendingApparat.Main" />
         <item itemvalue="Application.dayoftheWeek" />
         <item itemvalue="Application.typesex" />
         <item itemvalue="Application.processObjects" />
@@ -373,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686143483622</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary=" checks complited">
+      <created>1696602865373</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696602865373</updated>
+    </task>
+    <task id="LOCAL-00033" summary=" checks complited">
+      <created>1696602924467</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1696602924467</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

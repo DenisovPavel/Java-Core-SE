@@ -1,4 +1,0 @@
-Ball
-Cube
-Rabbit
-Ball

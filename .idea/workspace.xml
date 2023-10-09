@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment=" checks complited">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/ActorBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/MarketBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/QueueBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toyWinners.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696602924467</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary=" checks complited">
+      <created>1696875964502</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1696875964502</updated>
+    </task>
+    <task id="LOCAL-00035" summary=" checks complited">
+      <created>1696875984094</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1696875984094</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +399,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

@@ -1,3 +1,6 @@
 ## Different kind of things I worked at from time to time ##
-
-<image src="https://wallpaperaccess.com/full/383133.jpg" alt="Java eat my mind">;
+<div id="header" align="center">
+<div>
+  <img src="https://media.giphy.com/media/cEfIIUkLVUZfngrIgv/giphy.gif" width="350"/>
+  </div>
+</div>

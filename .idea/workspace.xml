@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment=" checks complited">
-      <change beforePath="$PROJECT_DIR$/src/main/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingCodding\javaApril23\ april23" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\MarketwithQueue" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\OOplec" />
     </key>
@@ -396,7 +397,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696879761122</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary=" checks complited">
+      <created>1696880188849</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1696880188849</updated>
+    </task>
+    <task id="LOCAL-00038" summary=" checks complited">
+      <created>1696880318559</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1696880318559</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

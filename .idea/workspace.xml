@@ -4,69 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment=" checks complited">
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Done Market with Queue">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Students/GroupofStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Students/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Students/examplelesson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/BaseHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Druid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Magician.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Priest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex001/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/BaseHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Druid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Magician.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Priest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex002/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/BaseHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Druid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Magician.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Priest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Dwarf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Gnome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex003/alliance/Worgen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/BaseHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/Druid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/Dwarf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex004/class.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/class.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Druid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Healer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Priest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Healers/Shaman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Warriors/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Warriors/Paladin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v1/Warriors/Warrior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/God.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Druid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Healer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Priest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Healers/Shaman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Warriors/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Warriors/Paladin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex005/v2/Warriors/Warrior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Applications/Notepad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Document/TextDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/Doc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/Md.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/TextFormat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Format/Txt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Interface/Saveable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseHero/Ex006/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Market.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOpsem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOpsem/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOpsem/VendingMashine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOpsem/mashineCola.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMashine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMashine/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk2.java" root0="SKIP_INSPECTION" />
@@ -121,20 +65,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\OOplec" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MarketwithQueue.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VendingApparat.Main" />
-      <module name=" april23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VendingApparat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Students.Main">
     <configuration name="MarketwithQueue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MarketwithQueue.Main" />
       <module name=" april23" />
@@ -154,6 +85,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BaseHero.Ex006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Students.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Students.Main" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Students.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,10 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Students.Main" />
         <item itemvalue="Application.MarketwithQueue.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.VendingMashine.Main" />
-        <item itemvalue="Application.VendingApparat.Main" />
         <item itemvalue="Application.dayoftheWeek" />
       </list>
     </recent_temporary>
@@ -500,7 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696881111244</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Done Market with Queue">
+      <created>1696971270437</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1696971270437</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Done Market with Queue">
+      <created>1696971276512</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1696971276512</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -527,7 +485,8 @@
     <MESSAGE value="add dequeExample" />
     <MESSAGE value="all checks complited" />
     <MESSAGE value=" checks complited" />
-    <option name="LAST_COMMIT_MESSAGE" value=" checks complited" />
+    <MESSAGE value="Done Market with Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Market with Queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

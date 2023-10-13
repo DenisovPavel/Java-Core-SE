@@ -1,32 +1,20 @@
 package Students;
-//
-//        -Создать класс Студент
-//        -Создать класс УчебнаяГруппаИтератор
-//        -Создать класс УчебнаяГруппаИтератор,заставив его реализовать интерфейс Iterator
-//        -Реализовать его контракты(включая удаление)
 
 import java.util.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 
 public class GroupofStudents implements Iterable<Student> {
-    String nameofGroup;
+
 
     List<Student> numberofStudents = new ArrayList<Student>();
     int index = 0;
 
-    public GroupofStudents(String nameofGroup, List numberofStudents) {
-        this.nameofGroup = nameofGroup;
+    public GroupofStudents(List numberofStudents) {
+
         this.numberofStudents = numberofStudents;
     }
 
-    public String getNameofGroup() {
-        return nameofGroup;
-    }
-
-    public void setNameofGroup(String nameofGroup) {
-        this.nameofGroup = nameofGroup;
-    }
 
     public List getNumberofStudents() {
         return numberofStudents;
@@ -49,6 +37,8 @@ public class GroupofStudents implements Iterable<Student> {
         return new StudentIterator() {
         };
     }
+
+
     private class StudentIterator implements Iterator<Student> {
         @Override
         public boolean hasNext() {
@@ -62,11 +52,13 @@ public class GroupofStudents implements Iterable<Student> {
             }
             return null;
         }
+
         @Override
-        public void remove(){
-          return;
+        public void remove() {
+            return;
         }
     }
+
     public void addPerson(Student student) {
         numberofStudents.add(student);
     }

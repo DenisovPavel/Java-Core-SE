@@ -1,38 +1,32 @@
 package Students;
 
-public class Student {
-    String Name;
-    String Surname;
-    int Age;
+public class Student implements Comparable<Student> {
+    private String Name;
+    private String Surname;
+    private int Age;
+    private String nameOfGroup;
 
-    public Student(String name, String surname, int age) {
+    public String getNameofGroup() {
+        return nameOfGroup;
+    }
+
+    public Student(String name, String surname, int age, String nameofGroup) {
         Name = name;
         Surname = surname;
         Age = age;
+        this.nameOfGroup = nameofGroup;
     }
 
     public String getName() {
         return Name;
     }
 
-    public void setName(String name) {
-        Name = name;
-    }
-
     public String getSurname() {
         return Surname;
     }
 
-    public void setSurname(String surname) {
-        Surname = surname;
-    }
-
     public int getAge() {
         return Age;
-    }
-
-    public void setAge(int age) {
-        Age = age;
     }
 
     @Override
@@ -41,6 +35,17 @@ public class Student {
                 "Name='" + Name + '\'' +
                 ", Surname='" + Surname + '\'' +
                 ", Age=" + Age +
+                ", nameofGroup='" + nameOfGroup + '\'' +
                 '}';
+    }
+
+    /**
+     * @param otherStudent the object to be compared.
+     * @return сравнение по длине имени.
+     */
+    @Override
+    public int compareTo(Student otherStudent) {
+        return this.Name.length() - otherStudent.getName().length();
+        //return this.Surname.length() - otherStudent.getSurname().length();
     }
 }

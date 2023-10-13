@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Done Market with Queue">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Students/GroupofStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Students/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Students/examplelesson.java" afterDir="false" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="IteratorSeminar">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Students/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Students/StudentComporator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Students/GroupofStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Students/GroupofStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Students/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Students/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Students/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Students/examplelesson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MarketwithQueue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -458,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696971276512</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="IteratorSeminar">
+      <created>1697136489493</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1697136489493</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +496,8 @@
     <MESSAGE value="all checks complited" />
     <MESSAGE value=" checks complited" />
     <MESSAGE value="Done Market with Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Market with Queue" />
+    <MESSAGE value="IteratorSeminar" />
+    <option name="LAST_COMMIT_MESSAGE" value="IteratorSeminar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

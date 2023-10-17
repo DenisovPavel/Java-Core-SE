@@ -4,15 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="IteratorSeminar">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Students/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Students/StudentComporator.java" afterDir="false" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Comparable/Iterable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Students/GroupofStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Students/GroupofStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Students/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Students/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Students/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Students/examplelesson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MarketwithQueue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codewarsPractice/taskRomans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/taskRomans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/funexample/typesex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Funexample/typesex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/Lec4/Ex000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/Lec4/Ex001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/Lec4/Ex002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/Lec4/Ex003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/Lec4/Ex004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/Lec4/Ex005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/Lec4/Ex005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex001_stringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec/Ex001_stringsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex002_fileSystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec/Ex002_fileSystemDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex003_tryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec/Ex003_tryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex004_bFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec/Ex004_bFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/Ex005_Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec/Ex005_Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec/les2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec/les2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec2/ex1obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec2/ex1obj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec2/ex2obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec2/ex2obj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec2/ex3Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec2/ex3Arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec3/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec3/tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex001_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec5/Ex001_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex002_HashMapEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec5/Ex002_HashMapEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex003_HashMapBoost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec5/Ex003_HashMapBoost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex004_TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec5/Ex004_TreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex005_LinkedHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec5/Ex005_LinkedHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec5/Ex006_HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec5/Ex006_HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex001_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec6/Ex001_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex001_Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec6/Ex001_Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex002_MathSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec6/Ex002_MathSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex003_TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec6/Ex003_TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Ex004_LinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec6/Ex004_LinkedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecApi/lec6/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecApi/lec6/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/tsk2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/tsk3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/tsk4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiceExSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiceExTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExfive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiceExfive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiceExone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExsix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiceExsix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiceExthree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiceExthree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceExeptionsSem/practiseExfour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticeExeptionsSem/practiseExfour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prfour/dequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prfour/dequeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prfour/linkedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prfour/linkedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prsix/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prsix/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prsix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prsix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prthree/tsk1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prthree/tsk2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk3minmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prthree/tsk3minmax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prthree/tsk4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prthree/tsk4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prtone/factnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prtone/factnumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prtone/kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prtone/kalkulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prtone/showsimplenumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prtone/showsimplenumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prtwo/bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prtwo/bubblesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/prtHTApi/prtwo/jsonSimpleParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrtHTApi/prtwo/jsonSimpleParse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +86,7 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/practiceExeptionsHT/tsk2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/tsk2.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,6 +116,7 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\Generics" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\MarketwithQueue" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\OOplec" />
@@ -468,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697136489493</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Comparable/Iterable">
+      <created>1697236958102</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1697236958102</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +558,8 @@
     <MESSAGE value=" checks complited" />
     <MESSAGE value="Done Market with Queue" />
     <MESSAGE value="IteratorSeminar" />
-    <option name="LAST_COMMIT_MESSAGE" value="IteratorSeminar" />
+    <MESSAGE value="Comparable/Iterable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparable/Iterable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

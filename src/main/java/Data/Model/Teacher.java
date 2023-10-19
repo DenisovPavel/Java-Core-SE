@@ -1,5 +1,7 @@
 package Data.Model;
-
+/**
+ * Teacher - шаблон учителя на основе User
+ */
 public class Teacher {
     String teacherSubject;
 

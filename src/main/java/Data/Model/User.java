@@ -1,5 +1,8 @@
 package Data.Model;
 
+/**
+ * @params User - шаблон для создания классов Студента и Учителя
+ */
 public class User {
     protected String name;
     protected String group;
@@ -12,7 +15,6 @@ public class User {
     }
 
     public User(String studentId) {
-
     }
 
     public String getName() {

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Generics" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Generics">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Model/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Model/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Model/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00002" summary="april17">
-      <created>1681754820690</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1681754820690</updated>
     </task>
     <task id="LOCAL-00003" summary="april17">
       <created>1681755275313</created>
@@ -492,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697741920059</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Generics">
+      <created>1697742954335</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1697742954335</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

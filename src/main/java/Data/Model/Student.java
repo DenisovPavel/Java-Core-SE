@@ -1,5 +1,8 @@
 package Data.Model;
 
+/**
+ * Student - шаблон студента на основе User
+ */
 public class Student extends User {
     String studentId;
 

@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Generics">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutoProg/Car/Avto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutoProg/Car/AvtoComparatorSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutoProg/Prog/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutoProg/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/Model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Data/View/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Generics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,13 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00001" summary="april17">
-      <created>1681754059640</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681754059640</updated>
     </task>
     <task id="LOCAL-00002" summary="april17">
       <created>1681754820690</created>
@@ -497,7 +478,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697566398198</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Generics">
+      <created>1697741843828</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1697741843828</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Generics">
+      <created>1697741920058</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1697741920059</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

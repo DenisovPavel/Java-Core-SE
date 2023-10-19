@@ -9,8 +9,6 @@ public class Main {
 
         stView.getStudent("Misha");
         stView.getStudent("Ivan");
-
-
-
+        stView.getStudent("Ivan");
     }
 }

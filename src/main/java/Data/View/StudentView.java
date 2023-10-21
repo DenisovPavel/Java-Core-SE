@@ -13,7 +13,7 @@ public class StudentView {
     }
 
     public void saveStudent(String name, String group, int age, String studentId) {
-        controllerStudent.addStudent(name, group, age, studentId);
+        controllerStudent.addStudent(name, age, studentId);
     }
 
     public void getStudent(String name) {

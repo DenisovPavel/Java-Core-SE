@@ -4,17 +4,13 @@ package Data.Model;
  * Student - шаблон студента на основе User
  */
 public class Student extends User {
-    String studentId;
+   protected String studentId;
 
-    public Student(String name, String group, int age, String studentId) {
-        super(name, group, age);
+    public Student(String name, int age, String studentId) {
+        super(name, age);
         this.studentId = studentId;
     }
 
-    public Student(String studentId, String studentId1) {
-        super(studentId);
-        this.studentId = studentId1;
-    }
 
 
     public String getStudentId() {
@@ -30,12 +26,12 @@ public class Student extends User {
         return "Student{" +
                 "studentId='" + studentId + '\'' +
                 ", name='" + name + '\'' +
-                ", group='" + group + '\'' +
+                ", group='" +
                 ", age=" + age +
                 '}';
     }
 
-    public void getInfoStudent(String name, String group, int age, String studentId) {
-        System.out.println("Student:" + name + group + age + studentId);
+    public void getInfoStudent(String name, int age, String studentId) {
+        System.out.println("Student:" + name + age + studentId);
     }
 }

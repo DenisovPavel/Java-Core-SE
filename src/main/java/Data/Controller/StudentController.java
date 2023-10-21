@@ -21,10 +21,18 @@ public class StudentController {
 
     /**
      * @params addStudent - добавляет студента в список.
-      */
+     */
 
-    public void addStudent(String name, String group, int age, String studentId) {
-        student.add(new Student(name, group, age, studentId));
+    public void addStudent(String name, int age, String studentId) {
+
+        student.add(new Student(name, age, studentId));
+    }
+    public List<Student> getStudent() {
+        return student;
+    }
+
+    public void setStudent(List<Student> student) {
+        this.student = student;
     }
     /**
      * @params getStudent - выводит результат поиска студента в списке..
@@ -39,14 +47,6 @@ public class StudentController {
             }
         }
         return null;
-    }
-
-    public List<Student> getStudent() {
-        return student;
-    }
-
-    public void setStudent(List<Student> student) {
-        this.student = student;
     }
 
     @Override

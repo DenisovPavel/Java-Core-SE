@@ -3,7 +3,7 @@ package Data.Model;
  * Teacher - шаблон учителя на основе User
  */
 public class Teacher {
-    String teacherSubject;
+   protected String teacherSubject;
 
     public Teacher(String teacherSubject) {
         this.teacherSubject = teacherSubject;

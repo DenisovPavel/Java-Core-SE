@@ -4,6 +4,8 @@ import DataPartTwo.Controller.Controller;
 import DataPartTwo.Model.Student;
 import DataPartTwo.Model.StudyGroup;
 import DataPartTwo.Model.Teacher;
+import DataPartTwo.View.ModelView;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,11 +28,18 @@ public class Main {
         studentList.add(studentVladimir);
         //ver 1
         Controller controller = new Controller();
-        System.out.println("Teacher ID: " + controller.getTeacherID(teacherAleksandr));
-        System.out.println("Student ID: " + controller.getStudentID(studentKatya));
-        System.out.println(controller.showGroup(teacherAleksandr,studentList));
-        // ver 2
-        StudyGroup studyGroup = controller.createStudyGroupService(teacherAleksandr, studentList);
-        System.out.println(studyGroup);
+//        System.out.println("Teacher ID: " + controller.getTeacherID(teacherAleksandr));
+//        System.out.println("Student ID: " + controller.getStudentID(studentKatya));
+//        System.out.println(controller.showGroup(teacherAleksandr,studentList));
+//        // ver 2
+//        StudyGroup studyGroup = controller.createStudyGroupService(teacherAleksandr, studentList);
+//        System.out.println(studyGroup);
+
+        ModelView modelView = new ModelView();
+        modelView.getTeacherID(controller,teacherAleksandr);
+        modelView.getStudentID(controller,studentSergey);
+
+        modelView.getAllGroup(studentList,teacherAleksandr,controller);
     }
+
 }

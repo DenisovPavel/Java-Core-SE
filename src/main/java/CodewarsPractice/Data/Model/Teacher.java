@@ -1,4 +1,4 @@
-package Data.Model;
+package CodewarsPractice.Data.Model;
 /**
  * Teacher - шаблон учителя на основе User
  */

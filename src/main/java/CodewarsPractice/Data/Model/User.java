@@ -1,4 +1,4 @@
-package Data.Model;
+package CodewarsPractice.Data.Model;
 
 /**
  * @params User - шаблон для создания классов Студента и Учителя

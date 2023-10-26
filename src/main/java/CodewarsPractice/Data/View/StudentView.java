@@ -1,7 +1,6 @@
-package Data.View;
+package CodewarsPractice.Data.View;
 
-import Data.Controller.StudentController;
-import Data.Model.Student;
+import CodewarsPractice.Data.Controller.StudentController;
 
 //1. Создать package – view. Работу продолжаем в нем
 //2. Создать класс StudentView, содержащий в себе метод вывода в консоль данных студента поданных на вход

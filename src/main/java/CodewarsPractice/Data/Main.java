@@ -1,5 +1,5 @@
-package Data;
-import Data.View.StudentView;
+package CodewarsPractice.Data;
+import CodewarsPractice.Data.View.StudentView;
 
 /**
  * Реализация;

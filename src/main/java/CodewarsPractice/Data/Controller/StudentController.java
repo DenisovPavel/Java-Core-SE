@@ -1,6 +1,6 @@
-package Data.Controller;
+package CodewarsPractice.Data.Controller;
 
-import Data.Model.Student;
+import CodewarsPractice.Data.Model.Student;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package Data.Model;
+package CodewarsPractice.Data.Model;
 
 /**
  * Student - шаблон студента на основе User

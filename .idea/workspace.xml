@@ -9,38 +9,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="MVC ver2">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/april23_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Instraction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ChangeAgeTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ChangeFirstNameTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ChangeLastNameTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ChangeTeacherGroupList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ChangeTeacherSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetAgeTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetFirstNameTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetLastNameTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetLastNameUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetTeacherSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetUserInfoToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/SaveTeacherInGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/SaveTeacherInTeacherGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeacherGroupList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/User.java" afterDir="false" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Solid">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeachersInGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/Data/Controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/Data/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/Data/Model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Model/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/Data/Model/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/Data/Model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Data/View/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodewarsPractice/Data/View/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeacherGroupList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeacherGroupList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Teacher/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Teacher/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Model/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/Model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Data/View/StudentView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Teacher/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Teacher/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -74,19 +60,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/ProgrammingCodding/javaApril23/ april23/src/main/java/SOLIDprinciples",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProgrammingCodding/javaApril23/ april23/src/main/java/SOLIDprinciples&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\SOLIDprinciples" />
@@ -103,7 +89,7 @@
       <recent name="AutoProg.Car" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SOLIDprinciples.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AutoProg.Prog.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AutoProg.Prog.Main" />
       <module name=" april23" />
@@ -156,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Students.Main" />
+    <configuration name="Teacher.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teacher.Main" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Students.*" />
+          <option name="PATTERN" value="Teacher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SOLIDprinciples.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Teacher.Main" />
         <item itemvalue="Application.DataPartTwo.Main" />
         <item itemvalue="Application.Data.Main" />
         <item itemvalue="Application.AutoProg.Prog.Main" />
-        <item itemvalue="Application.Students.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -187,13 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00007" summary="april17">
-      <created>1681755591419</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1681755591419</updated>
     </task>
     <task id="LOCAL-00008" summary="april17">
       <created>1681755666102</created>
@@ -531,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697926472647</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Solid">
+      <created>1698350706873</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1698350706873</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +550,8 @@
     <MESSAGE value="Generics" />
     <MESSAGE value="MVC" />
     <MESSAGE value="MVC ver2" />
-    <option name="LAST_COMMIT_MESSAGE" value="MVC ver2" />
+    <MESSAGE value="Solid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solid" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

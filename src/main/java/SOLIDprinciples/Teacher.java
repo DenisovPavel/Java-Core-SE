@@ -15,9 +15,6 @@ public class Teacher extends User {
         this.subject = subject;
     }
 
-    public Teacher(String subject) {
-    }
-
     public String getSubject() {
         return subject;
     }

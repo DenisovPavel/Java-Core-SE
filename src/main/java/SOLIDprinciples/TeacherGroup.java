@@ -14,11 +14,6 @@ public class TeacherGroup implements Iterable<Teacher>{
     }
 
 
-
-
-
-
-
     @Override
     public TeacherIterator iterator() {
         return new TeacherIterator(teacherList);

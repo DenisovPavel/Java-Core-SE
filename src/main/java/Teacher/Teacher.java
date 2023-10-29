@@ -3,20 +3,28 @@ package Teacher;
 import Teacher.User;
 
 public class Teacher extends User {
-    private String firstName;
-    private String lastName;
-    private int age;
-    private String subject;
 
-    public Teacher(String firstName, String lastName, int age, String subject) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+    protected String firstName;
+    protected String lastName;
+    protected int age;
+    protected String subject;
+    public Teacher(String firstName, String lastName, int age,String subject) {
+        super(firstName, lastName);
         this.age = age;
         this.subject = subject;
     }
 
+
+
+//    public Teacher(String firstName, String lastName, int age, String subject) {
+//        this.firstName = firstName;
+//        this.lastName = lastName;
+//        this.age = age;
+//        this.subject = subject;
+//    }
+
     public String getFirstName() {
-        return firstName;
+        return getFirstName();
     }
 
     public void setFirstName(String firstName) {

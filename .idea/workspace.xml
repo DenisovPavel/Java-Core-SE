@@ -10,25 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Solid Principles Teachers In Group">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculatorDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Model/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/CalculatorInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/CalculateInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/CalculatorController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/CalculatorDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/GetNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/SetNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Model/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/View/CalculatorInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/View/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Funexample/typesex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Funexample/typesex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetAgeTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetAgeTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/funexample/typesex$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/funexample/typesex$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/funexample/typesex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/funexample/typesex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,20 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00009" summary="april17">
-      <created>1682288653620</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1682288653620</updated>
-    </task>
-    <task id="LOCAL-00010" summary="april17">
-      <created>1682288747437</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1682288747437</updated>
     </task>
     <task id="LOCAL-00011" summary="april17">
       <created>1682434636388</created>
@@ -519,7 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698572884805</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Solid Principles Teachers In Group">
+      <created>1698655848252</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1698655848253</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Solid Principles Teachers In Group">
+      <created>1698655962485</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1698655962486</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

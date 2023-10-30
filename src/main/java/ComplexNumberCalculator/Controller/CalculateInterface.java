@@ -4,8 +4,10 @@ import ComplexNumberCalculator.Model.Calculator;
 
 /**
  * @params CalculateInterface интерфейс для реализации методов;
- * {@link <a href="https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java
- * /ComplexNumberCalculator/Controller/CalculatorDecorator.java">...</a>}
+ * {@see CalculatorDecorator #additionNumbers(Calculator numberNew)  }
+ * {@see CalculatorDecorator #subtractNumbers(Calculator numberNew)  }
+ * {@see CalculatorDecorator #multiplyNumbers(Calculator numberNew)  }
+ * {@see CalculatorDecorator #Calculator divideNumbers(Calculator numberNew);  }
  */
 public interface CalculateInterface {
     Calculator additionNumbers(Calculator numberNew);
@@ -15,5 +17,6 @@ public interface CalculateInterface {
     Calculator multiplyNumbers(Calculator numberNew);
 
     Calculator divideNumbers(Calculator numberNew);
+
     String toString();
 }

@@ -9,24 +9,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Solid">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeachersInGroup.java" afterDir="false" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Solid Principles Teachers In Group">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculatorDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Model/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/CalculatorInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/CalculateInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/CalculatorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/CalculatorDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/GetNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Controller/SetNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Model/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/View/CalculatorInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/View/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeacherGroupList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/ShowTeacherGroupList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/TeacherGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Teacher/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Teacher/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Data/Controller/StudentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Data/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Data/Model/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Data/Model/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Data/Model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Data/View/StudentView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Teacher/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Teacher/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Funexample/typesex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Funexample/typesex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetAgeTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/GetAgeTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/funexample/typesex$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/funexample/typesex$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/funexample/typesex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/funexample/typesex.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +39,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,13 +91,13 @@
       <recent name="AutoProg.Car" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AutoProg.Prog.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoProg.Prog.Main" />
+  <component name="RunManager" selected="Application.ComplexNumberCalculator.View.Main">
+    <configuration name="ComplexNumberCalculator.View.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexNumberCalculator.View.Main" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AutoProg.Prog.*" />
+          <option name="PATTERN" value="ComplexNumberCalculator.View.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +111,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DataPartTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Data.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data.Main" />
-      <module name=" april23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="typesex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funexample.typesex" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Funexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComplexNumberCalculator.View.Main" />
+        <item itemvalue="Application.typesex" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Teacher.Main" />
         <item itemvalue="Application.DataPartTwo.Main" />
-        <item itemvalue="Application.Data.Main" />
-        <item itemvalue="Application.AutoProg.Prog.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00008" summary="april17">
-      <created>1681755666102</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1681755666102</updated>
     </task>
     <task id="LOCAL-00009" summary="april17">
       <created>1682288653620</created>
@@ -517,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698350706873</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Solid Principles Teachers In Group">
+      <created>1698572884805</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1698572884805</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +553,8 @@
     <MESSAGE value="MVC" />
     <MESSAGE value="MVC ver2" />
     <MESSAGE value="Solid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solid" />
+    <MESSAGE value="Solid Principles Teachers In Group" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solid Principles Teachers In Group" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

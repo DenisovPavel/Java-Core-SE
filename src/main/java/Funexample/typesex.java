@@ -36,12 +36,10 @@ public class typesex {
 //        }
 //        System.out.println("Программа завершена");
 
-
         Person tom = new Person("Tom", -116);
         System.out.println(tom.toString());
 
     }
-
     record Person(String name, int age) {
 
         Person {
@@ -51,6 +49,5 @@ public class typesex {
             }
         }
     }
-    
 
 }

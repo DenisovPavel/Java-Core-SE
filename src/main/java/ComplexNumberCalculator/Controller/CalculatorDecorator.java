@@ -2,6 +2,9 @@ package ComplexNumberCalculator.Controller;
 
 import ComplexNumberCalculator.Model.Calculator;
 
+/**
+ * @params CalculatorDecorator осуществляет работу арифметических операций с последующим выводом результата;
+ */
 public class CalculatorDecorator implements CalculateInterface {
     protected  Calculator calculator;
 

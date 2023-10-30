@@ -28,6 +28,10 @@ public class CalculatorInput {
         }
     }
 
+    /**
+     *
+     * @return  getChoice() метод предоставляет интерфейс с выбором арефметической операции;
+     */
     public static int getChoice() {
         System.out.print("Choose operation" + "\n" +
                 "  1  -> for addition Numbers; " + "\n" +

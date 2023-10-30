@@ -12,6 +12,9 @@
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="Solid Principles Teachers In Group">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculatorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/Controller/CalculatorDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/CalculatorInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/CalculatorInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComplexNumberCalculator/View/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,20 +161,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00011" summary="april17">
-      <created>1682434636388</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1682434636388</updated>
-    </task>
-    <task id="LOCAL-00012" summary="april17">
-      <created>1682435365614</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1682435365614</updated>
     </task>
     <task id="LOCAL-00013" summary="april17">
       <created>1682772364433</created>
@@ -502,7 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698655962486</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Solid Principles Teachers In Group">
+      <created>1698656394311</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1698656394311</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Solid Principles Teachers In Group">
+      <created>1698656440692</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1698656440692</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

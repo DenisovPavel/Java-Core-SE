@@ -13,5 +13,5 @@ ___
 - MainApp - Вход в игру
 
 <div align="center">
-  <img src="https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcR9TjudsqhvW6GSYSaoNHPEpjPujSr-HcCe-GliFPpIcAZhDA7dsuGNewXxamoIhwjH"/>
+  <img src="https://cdn.lifehacker.ru/wp-content/uploads/2014/11/shutterstock_81989089-640x320.jpg"/>
 </div>

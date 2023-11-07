@@ -1,14 +1,26 @@
 # Game "Naughts And Crosses"
+
 ___
+
 # Игра "Крестики и Нолики"
 
-- AI - класс представляющий игрока(Компьютер);
+- Класс представляющий Компьютер, в качестве игрока опонента - [AI][1];
 
-- Human - класс представляющий игрока(Человека);
+- Класс представляющий Человека, в качестве игрока - [Human][2];
 
-- Field - игровое поле;
+- Класс представляющий игровое поле - [Field][3];
 
-- GameChecks - класс исполняющий все проверки игры;
+- Класс исполняющий все проверки игры - [GameChecks][4];
 
-- MainApp - Вход в игру
-  [Игра](C:\Users\1990y\OneDrive\Рабочий стол\1.png)
+- Класс для запуска игры и точка входа в игру - [MainApp][5];
+
+[1]:https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/GameNaughtsAndCrosses/AI.java
+
+[2]:https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/GameNaughtsAndCrosses/Human.java
+
+[3]:https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/GameNaughtsAndCrosses/Field.java
+
+[4]:https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/GameNaughtsAndCrosses/GameChecks.java
+
+[5]:https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/GameNaughtsAndCrosses/MainApp.java
+

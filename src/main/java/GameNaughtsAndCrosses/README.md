@@ -23,3 +23,4 @@ ___
 
 [5]:https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/GameNaughtsAndCrosses/MainApp.java
 
+![Alt-текст](https://img.freepik.com/premium-vector/tic-tac-toe-game-neon-linear-outline-icon_7280-2418.jpg "Крестики и Нолики")

@@ -1,7 +1,5 @@
 # Game "Naughts And Crosses"
-
 ___
-
 # Игра "Крестики и Нолики"
 
 - AI - класс представляющий игрока(Компьютер);
@@ -15,7 +13,5 @@ ___
 - MainApp - Вход в игру
 
 <div align="center">
-  <img src="https://t2.gstatic.com/licensed-image?q=tbn:
-ANd9GcR9TjudsqhvW6GSYSaoNHPEpj
-PujSr-HcCe-GliFPpIcAZhDA7dsuGNewXxamoIhwjH"/>
+  <img src="https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcR9TjudsqhvW6GSYSaoNHPEpjPujSr-HcCe-GliFPpIcAZhDA7dsuGNewXxamoIhwjH"/>
 </div>

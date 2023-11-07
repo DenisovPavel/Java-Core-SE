@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="JVCore" />
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="JVCore">
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameNaughtsAndCrosses/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameNaughtsAndCrosses/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,27 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00017" summary="april17">
-      <created>1682877495452</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1682877495453</updated>
-    </task>
-    <task id="LOCAL-00018" summary="april17">
-      <created>1682877611822</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1682877611822</updated>
-    </task>
-    <task id="LOCAL-00019" summary="april17">
-      <created>1682877718312</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1682877718312</updated>
     </task>
     <task id="LOCAL-00020" summary="april17">
       <created>1682877808836</created>
@@ -493,7 +474,28 @@
       <option name="project" value="LOCAL" />
       <updated>1699380392032</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="JVCore">
+      <created>1699380449697</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1699380449698</updated>
+    </task>
+    <task id="LOCAL-00067" summary="JVCore">
+      <created>1699380564098</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1699380564098</updated>
+    </task>
+    <task id="LOCAL-00068" summary="JVCore">
+      <created>1699382943111</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1699382943111</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

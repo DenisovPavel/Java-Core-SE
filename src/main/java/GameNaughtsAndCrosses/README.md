@@ -13,5 +13,5 @@ ___
 - MainApp - Вход в игру
 
 <div align="center">
-  <img src="https://deskart.ru/wp-content/uploads/2020/01/vpdz1jsagka41-690x500.jpg"/>
+  <img src="C:\Users\1990y\OneDrive\Рабочий стол\1.png"/>
 </div>

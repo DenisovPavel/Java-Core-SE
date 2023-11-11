@@ -25,20 +25,20 @@
 
 5. Дальнейшие действия определены в классе [MainApp][9]
 
-[1]:
+[1]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/BaseEmployee.java
 
-[2]:
+[2]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/Freelancer.java
 
-[3]:
+[3]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/Worker.java
 
-[4]:
+[4]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/operationsSalary.java
 
-[5]:
+[5]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/EmployeeList.java
 
-[6]:
+[6]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/TeamEmployees.java
 
-[7]:
+[7]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/WorkerComporator.java
 
-[8]:
+[8]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/FreelancerComporator.java
 
-[9]:
+[9]: https://github.com/DenisovPavel/Java-Core-SE/blob/main/src/main/java/Company/MainApp.java

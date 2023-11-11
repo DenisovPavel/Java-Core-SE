@@ -9,101 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="JVCore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/BaseEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/EmployeeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/Freelancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/FreelancerComporator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/TeamEmployees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/WorkerComporator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/operationsSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/BaseCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/BaseHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/BaseRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Championship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCoreEX/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/BaseEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/EmployeeList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/Freelancer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/FreelancerComporator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/MainApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/TeamEmployees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/WorkerComporator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Company/operationsSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GameNaughtsAndCrosses/AI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GameNaughtsAndCrosses/Field.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GameNaughtsAndCrosses/GameChecks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GameNaughtsAndCrosses/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GameNaughtsAndCrosses/MainApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/BaseCat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/BaseHuman.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/BaseRobot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Championship.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Obstacle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Robot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Runner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Track.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaCoreEX/Wall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Teacher/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Teacher/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Teacher/TeacherGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Teacher/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Teacher/teacherComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Teacher/teacherIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOLIDprinciples/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/TeacherGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/TeacherGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/teacherComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/teacherComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Teacher/teacherIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MarketwithQueue/Teacher/teacherIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/Controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/Controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/StudyGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/StudyGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/ServiceGroup/StudyGroupService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/ServiceGroup/StudyGroupService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/View/ModelView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/View/ModelView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/UserComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/UserComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/UserIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/UserIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KrestikiAndNoliki/AI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KrestikiAndNoliki/Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KrestikiAndNoliki/GameChecks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KrestikiAndNoliki/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KrestikiAndNoliki/MainApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/OOPMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/OOPMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/alwaysHungryCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/alwaysHungryCat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/TeacherGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/teacherComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teacher/teacherIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex001_Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex001_Program.class" afterDir="false" />
-    </list>
+    <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="JVCore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,13 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00025" summary="add dequeExample">
-      <created>1683133931689</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1683133931689</updated>
     </task>
     <task id="LOCAL-00026" summary="all checks complited">
       <created>1683134324264</created>
@@ -588,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699387180986</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="JVCore">
+      <created>1699733332023</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1699733332023</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

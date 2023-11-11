@@ -1,6 +1,6 @@
 package SOLIDprinciples;
 
-import Teacher.User;
+import MarketwithQueue.Teacher.User;
 
 public class Teacher extends User {
     protected String firstName;

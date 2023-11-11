@@ -52,7 +52,7 @@ public class MainApp {
 
 
         /**
-         * В качестве пребора было использованно поле профессия Freelancer's;
+         * В качестве пeребора было использованно поле профессия Freelancer's;
          */
         FreelancerComporator freelancerComporator = new FreelancerComporator();
         TreeSet<Freelancer> freelancers = new TreeSet<Freelancer>(freelancerComporator);

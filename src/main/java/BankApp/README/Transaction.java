@@ -16,10 +16,14 @@ public class Transaction  {
             System.out.println(" Error transaction operation " + exception.getMessage());
         }
     }
+
 }
 
 // Another variant:
 
+//    CreditAccount creditAccount; кредитный счет
+//    DebitAccount debitAccount; дебитовый счет
+//    private double sumCredits; сумма средств
 
 //    public void fromCreditToDebit(CreditAccount creditAccount, DebitAccount debitAccount, double sumCredits
 //    ) throws IllegalArgumentException {

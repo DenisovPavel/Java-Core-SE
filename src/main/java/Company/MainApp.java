@@ -1,10 +1,7 @@
 package Company;
 
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.TreeSet;
+import java.util.*;
 
 
 public class MainApp {
@@ -76,7 +73,14 @@ public class MainApp {
         for (Worker w : workers) {
             System.out.println(w.name + w.middleSalaryProMonth);
         }
+
+
+//        EmployeeHolder holder = new EmployeeHolder(Arrays.stream().toList());
+//        for (Freelancer freelancer : holder) {
+//            System.out.println(freelancer);
     }
 
 }
+
+
 

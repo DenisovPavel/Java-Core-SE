@@ -10,149 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="JVCore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/BaseAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/DebitAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/InsufficientFundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BankApp/README/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Company/EmployeeHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ChangeAgeTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ChangeFirstNameTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ChangeLastNameTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ChangeTeacherGroupList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ChangeTeacherSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/GetAgeTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/GetFirstNameTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/GetLastNameTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/GetLastNameUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/GetTeacherSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/GetUserInfoToString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/SaveTeacherInGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/SaveTeacherInTeacherGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ShowTeacherGroupList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/ShowTeachersInGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/TeacherComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/TeacherGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/TeacherIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SOLIDprinciples/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/Data/Controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/Data/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/Data/Model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/Data/Model/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/Data/Model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/Data/View/StudentView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeFileManipulatin/BackUP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeFileManipulatin/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Company/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Company/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AutoProg/Car/Avto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AutoProg/Car/Avto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AutoProg/Car/AvtoComparatorSpeed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AutoProg/Car/AvtoComparatorSpeed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AutoProg/Prog/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AutoProg/Prog/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Company/BaseEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Company/BaseEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Company/Freelancer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Company/Freelancer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Company/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Company/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Company/TeamEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Company/TeamEmployees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Model/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComplexNumberCalculator/Model/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataPartTwo/Model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/StudentGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/StudentGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gens/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gens/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MarketwithQueue/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Actor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MarketwithQueue/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MarketwithQueue/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem2/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem2/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem2/tsk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem2/tsk2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem3/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem3/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem3/tsk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem3/tsk2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem4/practicetsk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem4/practicetsk2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem4/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem4/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem5/Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem5/Intro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem5/Tasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem5/Tasks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem5/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem5/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Homework.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SemApiTsks/sem6/Plate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/GroupofStudents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/GroupofStudents$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/GroupofStudents$StudentIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/GroupofStudents$StudentIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/GroupofStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/GroupofStudents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/StudentComporator$StudentAgeComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/StudentComporator$StudentAgeComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Students/StudentComporator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Students/StudentComporator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ToysShop/ToyStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ToysShop/ToyStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ToysShop/Toys.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ToysShop/Toys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ToysShop/processObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ToysShop/processObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingApparat/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingApparat/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingApparat/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingApparat/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingApparat/VendingMashine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingApparat/VendingMashine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingApparat/mashineCola.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingApparat/mashineCola.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMashine/HotDrink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMashine/HotDrink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMashine/HotDrinksMashine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMashine/HotDrinksMashine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMashine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMashine/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMashine/MashineVending.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMashine/MashineVending.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMashine/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMashine/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codewarsPractice/taskRomans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/codewarsPractice/taskRomans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/funexample/typesex$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/funexample/typesex$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/funexample/typesex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/funexample/typesex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex000.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex001.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex002.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex003.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex004.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex004.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex005.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/Lec4/Ex005.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex001_stringsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex001_stringsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex002_fileSystemDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex002_fileSystemDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex003_tryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex003_tryDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex004_bFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex004_bFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex005_Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/Ex005_Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec/les2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec/les2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec2/ex1obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec2/ex1obj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec2/ex2obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec2/ex2obj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec2/ex3Arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec2/ex3Arr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec3/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec3/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex001_HashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex001_HashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex002_HashMapEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex002_HashMapEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex003_HashMapBoost.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex003_HashMapBoost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex004_TreeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex004_TreeMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex005_LinkedHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex005_LinkedHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex006_HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec5/Ex006_HashTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex001_HashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex001_HashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex002_MathSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex002_MathSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex003_TreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex003_TreeSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex004_LinkedHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec6/Ex004_LinkedHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lecApi/lec6/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lecApi/lec6/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/task9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsHT/tsk4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExSeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExSeven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExfive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExfive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExthree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiceExthree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiseExfour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceExeptionsSem/practiseExfour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prfour/dequeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prfour/dequeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prfour/linkedExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prfour/linkedExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prsix/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prsix/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prsix/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prsix/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk3minmax.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk3minmax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prthree/tsk4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prtone/factnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prtone/factnumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prtone/kalkulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prtone/kalkulator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prtone/showsimplenumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prtone/showsimplenumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prtwo/bubblesort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prtwo/bubblesort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/prtHTApi/prtwo/jsonSimpleParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/prtHTApi/prtwo/jsonSimpleParse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -186,19 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ProgrammingCodding/javaApril23/ april23/src/main/java/SOLIDprinciples&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/ProgrammingCodding/javaApril23/ april23/src/main/java/SOLIDprinciples",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BankApp.README" />
@@ -208,24 +68,24 @@
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\FileManipulation" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\JavaCoreEX" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\Gens" />
       <recent name="D:\ProgrammingCodding\javaApril23\ april23\src\main\java\Generics" />
-      <recent name="D:\ProgrammingCodding\javaApril23\ april23" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Company" />
       <recent name="AutoProg.Car" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankApp.README.MainApp">
-    <configuration name="BankApp.README.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BankApp.README.MainApp" />
+  <component name="RunManager" selected="Application.BackUP">
+    <configuration name="BackUP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFileManipulatin.BackUP" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BankApp.README.*" />
+          <option name="PATTERN" value="PracticeFileManipulatin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameNaughtsAndCrosses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameNaughtsAndCrosses.Main" />
+    <configuration name="BackUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileManipulation.BackUp" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GameNaughtsAndCrosses.*" />
+          <option name="PATTERN" value="FileManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,19 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name=" april23" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Company.MainApp" />
+    <configuration name="PracticeFileManipulatin.Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeFileManipulatin.Tree" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Company.*" />
+          <option name="PATTERN" value="PracticeFileManipulatin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +119,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teacher.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teacher.Main" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileManipulation.Task1" />
       <module name=" april23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Teacher.*" />
+          <option name="PATTERN" value="FileManipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileManipulation.Task2" />
+      <module name=" april23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankApp.README.MainApp" />
-        <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.Teacher.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GameNaughtsAndCrosses.Main" />
+        <item itemvalue="Application.BackUP" />
+        <item itemvalue="Application.PracticeFileManipulatin.Tree" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.BackUp" />
       </list>
     </recent_temporary>
   </component>
@@ -297,20 +163,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00028" summary="all checks complited">
-      <created>1685099272637</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1685099272637</updated>
-    </task>
-    <task id="LOCAL-00029" summary="all checks complited">
-      <created>1685112263511</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1685112263511</updated>
     </task>
     <task id="LOCAL-00030" summary=" checks complited">
       <created>1686143445075</created>
@@ -641,7 +493,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699733618201</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="JVCore">
+      <created>1700044501178</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044501178</updated>
+    </task>
+    <task id="LOCAL-00078" summary="JVCore">
+      <created>1700044683833</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044683833</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

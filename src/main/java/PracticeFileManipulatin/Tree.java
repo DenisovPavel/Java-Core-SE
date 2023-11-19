@@ -21,6 +21,7 @@ public class Tree {
 
         File[] files = file.listFiles();
         if (files == null)
+
             return;
 
         int subDirTotal = 0;

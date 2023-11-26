@@ -10,9 +10,373 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651770de-9026-4e95-b58d-6faf3bd116d0" name="Changes" comment="JVCore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeFileManipulatin/BackUP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeFileManipulatin/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup" beforeDir="false" afterPath="$PROJECT_DIR$/backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backup/backup/backup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/AutoProg/Car/Avto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/AutoProg/Car/AvtoComparatorSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/AutoProg/Prog/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/AutoProg/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/Data/Controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/Data/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/Data/Model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/Data/Model/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/Data/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/Data/View/StudentView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/CodewarsPractice/taskRomans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/BaseEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/EmployeeList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/Freelancer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/FreelancerComporator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/TeamEmployees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/WorkerComporator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Company/operationsSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/Controller/CalculateInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/Controller/CalculatorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/Controller/CalculatorDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/Model/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/View/CalculatorInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ComplexNumberCalculator/View/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/Controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/Model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/Model/StudyGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/Model/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/ServiceGroup/StudyGroupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/DataPartTwo/View/ModelView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Funexample/typesex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/GameNaughtsAndCrosses/AI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/GameNaughtsAndCrosses/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/GameNaughtsAndCrosses/GameChecks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/GameNaughtsAndCrosses/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/GameNaughtsAndCrosses/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/GameNaughtsAndCrosses/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/StudentGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/UserComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Gens/UserIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/BaseCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/BaseHuman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/BaseRobot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Championship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Obstacle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/JavaCoreEX/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/Lec4/Ex000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/Lec4/Ex001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/Lec4/Ex002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/Lec4/Ex003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/Lec4/Ex004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/Lec4/Ex005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec/Ex001_stringsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec/Ex002_fileSystemDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec/Ex003_tryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec/Ex004_bFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec/Ex005_Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec/les2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec2/ex1obj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec2/ex2obj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec2/ex3Arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec3/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec5/Ex001_HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec5/Ex002_HashMapEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec5/Ex003_HashMapBoost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec5/Ex004_TreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec5/Ex005_LinkedHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec5/Ex006_HashTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec6/Ex001_HashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec6/Ex001_Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec6/Ex002_MathSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec6/Ex003_TreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec6/Ex004_LinkedHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/LecApi/lec6/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/ActorBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Market.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/MarketBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/QueueBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/TeacherGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/teacherComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/MarketwithQueue/Teacher/teacherIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/task7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/task9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/tsk2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/tsk3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsHT/tsk4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiceExSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiceExTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiceExfive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiceExone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiceExsix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiceExthree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PracticeExeptionsSem/practiseExfour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prfour/dequeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prfour/linkedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prsix/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prsix/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prsix/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prthree/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prthree/tsk2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prthree/tsk3minmax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prthree/tsk4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prtone/factnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prtone/kalkulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prtone/showsimplenumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prtwo/bubblesort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/PrtHTApi/prtwo/jsonSimpleParse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ChangeAgeTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ChangeFirstNameTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ChangeLastNameTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ChangeTeacherGroupList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ChangeTeacherSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/GetAgeTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/GetFirstNameTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/GetLastNameTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/GetLastNameUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/GetTeacherSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/GetUserInfoToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/SaveTeacherInGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/SaveTeacherInTeacherGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ShowTeacherGroupList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/ShowTeachersInGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/TeacherComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/TeacherGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/TeacherIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SOLIDprinciples/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem2/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem2/tsk2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem3/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem3/tsk2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem4/practicetsk2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem4/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem5/Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem5/Tasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem5/tsk1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/Homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/OOPMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/Plate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/SemApiTsks/sem6/alwaysHungryCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Students/GroupofStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Students/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Students/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Students/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/Students/StudentComporator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ToysShop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ToysShop/ToyStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ToysShop/Toys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/ToysShop/processObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingApparat/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingApparat/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingApparat/VendingMashine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingApparat/mashineCola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingMashine/HotDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingMashine/HotDrinksMashine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingMashine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingMashine/MashineVending.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingMashine/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/src/main/java/VendingMashine/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/AutoProg/Car/Avto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/AutoProg/Car/AvtoComparatorSpeed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/AutoProg/Prog/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/AutoProg/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/BaseEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/EmployeeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/Freelancer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/FreelancerComporator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/TeamEmployees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/WorkerComporator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Company/operationsSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/Controller/CalculateInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/Controller/CalculatorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/Controller/CalculatorDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/Model/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/View/CalculatorInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ComplexNumberCalculator/View/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/Controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/Model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/Model/StudyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/Model/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/Model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/ServiceGroup/StudyGroupService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/DataPartTwo/View/ModelView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/GameNaughtsAndCrosses/AI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/GameNaughtsAndCrosses/Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/GameNaughtsAndCrosses/GameChecks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/GameNaughtsAndCrosses/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/GameNaughtsAndCrosses/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/StudentGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/UserComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Gens/UserIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/BaseCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/BaseHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/BaseRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Championship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Obstacle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/JavaCoreEX/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/ActorBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Market.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/MarketBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/QueueBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Teacher/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Teacher/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Teacher/TeacherGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Teacher/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Teacher/teacherComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/MarketwithQueue/Teacher/teacherIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SOLIDprinciples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem2/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem2/tsk2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem3/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem3/tsk2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem4/practicetsk2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem4/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem5/Intro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem5/Tasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem5/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/OOPMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/Plate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/SemApiTsks/sem6/alwaysHungryCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/GroupofStudents$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/GroupofStudents$StudentIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/GroupofStudents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/StudentComporator$StudentAgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Students/StudentComporator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/Teacher/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ToysShop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ToysShop/ToyStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ToysShop/Toys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/ToysShop/processObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingApparat/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingApparat/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingApparat/VendingMashine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingApparat/mashineCola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingMashine/HotDrink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingMashine/HotDrinksMashine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingMashine/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingMashine/MashineVending.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingMashine/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/VendingMashine/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/codewarsPractice/taskRomans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/funexample/typesex$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/funexample/typesex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/Lec4/Ex000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/Lec4/Ex001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/Lec4/Ex002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/Lec4/Ex003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/Lec4/Ex004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/Lec4/Ex005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec/Ex001_stringsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec/Ex002_fileSystemDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec/Ex003_tryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec/Ex004_bFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec/Ex005_Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec/les2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec2/ex1obj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec2/ex2obj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec2/ex3Arr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec3/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec5/Ex001_HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec5/Ex002_HashMapEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec5/Ex003_HashMapBoost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec5/Ex004_TreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec5/Ex005_LinkedHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec5/Ex006_HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec6/Ex001_HashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec6/Ex001_Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec6/Ex002_MathSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec6/Ex003_TreeSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec6/Ex004_LinkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/lecApi/lec6/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/task7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/task8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/task9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/tsk2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/tsk3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsHT/tsk4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsSem/practiceExSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsSem/practiceExTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsSem/practiceExfive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsSem/practiceExone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsSem/practiceExthree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/practiceExeptionsSem/practiseExfour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prfour/dequeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prfour/linkedExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prsix/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prsix/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prsix/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prthree/tsk1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prthree/tsk2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prthree/tsk3minmax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prthree/tsk4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prtone/factnumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prtone/kalkulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prtone/showsimplenumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prtwo/bubblesort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/backup/backup/target/classes/prtHTApi/prtwo/jsonSimpleParse.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +394,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/PracticeExeptionsHT/tsk2.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,19 +406,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/ProgrammingCodding/javaApril23/ april23/src/main/java/SOLIDprinciples",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProgrammingCodding/javaApril23/ april23/src/main/java/SOLIDprinciples&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BankApp.README" />
@@ -163,20 +523,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681752787931</updated>
-    </task>
-    <task id="LOCAL-00030" summary=" checks complited">
-      <created>1686143445075</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1686143445075</updated>
-    </task>
-    <task id="LOCAL-00031" summary=" checks complited">
-      <created>1686143483622</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1686143483622</updated>
     </task>
     <task id="LOCAL-00032" summary=" checks complited">
       <created>1696602865373</created>
@@ -507,7 +853,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700044683833</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="JVCore">
+      <created>1700392533727</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1700392533727</updated>
+    </task>
+    <task id="LOCAL-00080" summary="JVCore">
+      <created>1700392671784</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1700392671784</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
